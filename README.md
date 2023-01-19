@@ -18,15 +18,15 @@ This repository consists of the solutions to the programming problems solved by 
 
 ## Number of Solved Problems
 
-The counting started on Thursday, the 19<sup>th</sup> of January, 2023.
+The counting started on Friday, the 20<sup>th</sup> of January, 2023.
 
 - Codeforces:
   - 0 problems
 - LeetCode:
   - 0 problems
 - Pbinfo:
-  - 0 problems
+  - 5 problems
 - Prinfo:
   - 0 problems
 - Total:
-  - 0 problems
+  - 5 problems
