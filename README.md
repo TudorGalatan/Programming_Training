@@ -25,8 +25,8 @@ The counting started on Friday, the 20<sup>th</sup> of January, 2023.
 - LeetCode:
   - 0 problems
 - Pbinfo:
-  - 5 problems
+  - 10 problems
 - Prinfo:
   - 0 problems
 - Total:
-  - 5 problems
+  - 10 problems
