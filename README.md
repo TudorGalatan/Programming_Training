@@ -21,12 +21,12 @@ This repository consists of the solutions to the programming problems solved by 
 The counting started on Friday, the 20<sup>th</sup> of January, 2023.
 
 - Codeforces:
-  - 0 problems
+  - 0 solutions
 - LeetCode:
-  - 0 problems
+  - 0 solutions
 - Pbinfo:
-  - 32 problems
+  - 42 solutions
 - Prinfo:
-  - 0 problems
+  - 0 solutions
 - Total:
-  - 32 problems
+  - 42 solutions
