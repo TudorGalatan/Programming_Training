@@ -16,7 +16,7 @@ This repository consists of the solutions to the programming problems solved by 
 - Prinfo
   - [Website](https://probleme.programarecurabdare.ro/)
 
-## Number of Solved Problems
+## Number of Solutions
 
 The counting started on Friday, the 20<sup>th</sup> of January, 2023.
 
@@ -25,8 +25,8 @@ The counting started on Friday, the 20<sup>th</sup> of January, 2023.
 - LeetCode:
   - 0 problems
 - Pbinfo:
-  - 10 problems
+  - 32 problems
 - Prinfo:
   - 0 problems
 - Total:
-  - 10 problems
+  - 32 problems
